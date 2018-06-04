@@ -1,0 +1,7 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\SelfHosting\obj\Debug\SelfHosting.pdb

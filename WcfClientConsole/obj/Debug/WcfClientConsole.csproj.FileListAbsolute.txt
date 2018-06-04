@@ -1,0 +1,6 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\WcfClientConsole\bin\Debug\WcfClientConsole.exe.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\WcfClientConsole\bin\Debug\WcfClientConsole.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\WcfClientConsole\bin\Debug\WcfClientConsole.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\WcfClientConsole\obj\Debug\WcfClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\WcfClientConsole\obj\Debug\WcfClientConsole.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\SelfHosting\SelfHosting\WcfClientConsole\obj\Debug\WcfClientConsole.pdb
